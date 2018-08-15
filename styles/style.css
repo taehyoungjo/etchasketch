@@ -1,0 +1,32 @@
+
+@font-face {
+  font-family: "Share Tech Mono";
+  src: url("../fonts/ShareTechMono-Regular.ttf");
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: "Share Tech Mono";
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+.btn {
+  padding: 14px 16px;
+  font-family: "Share Tech Mono";
+}
+
+#heading {
+  width: 640px;
+  margin: 24px auto;
+  text-align: center;
+}
+
+#container {
+  display: grid;
+  width: 640px;
+  margin: auto;
+}
